@@ -29,3 +29,11 @@ int main()
 // Como validar os valores antes do calculo?
 // Como impedir uma divisão por zero?
 // O que acontece se o tempo final for igual ao tempo inicial?
+
+/*
+Escreva uma aplicação de console simples que receba quatro valores (velocidade
+inicial, velocidade final, tempo inicial e tempo final), em seguida,
+calcule a aceleração de um veículo: a = dv / dt
+dv = Velocidade final – Velocidade inicial
+dt = Tempo final – Tempo inicial
+*/

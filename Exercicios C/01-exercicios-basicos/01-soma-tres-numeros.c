@@ -17,3 +17,8 @@
 // Eu do futuro: dá para fazer isso sem criar n1, n2 e n3 separadamente?
 // E se eu quisesse somar 10, 100 ou uma quantidade definida pelo usuário?
 // Existe uma forma mais inteligente de repetir a leitura dos números?
+
+/*
+Escreva uma aplicação de console simples que receba três valores, 
+sendo os mesmos 3 números, em seguida apresente a soma destes. 
+*/

@@ -17,3 +17,7 @@ int main()
 // Como tirar o 2026 fixo?
 // Como saber se a pessoa já fez aniversário neste ano?
 // Precisamos pedir dia, mês e ano para calcular a idade corretamente?
+
+/*
+
+*/

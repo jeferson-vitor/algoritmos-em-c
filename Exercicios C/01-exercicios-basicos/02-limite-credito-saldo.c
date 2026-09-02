@@ -15,3 +15,9 @@ int main()
 // Dinheiro deve ser armazenado com float mesmo?
 // O que acontece com valores como 0.1 + 0.2 no computador?
 // Existe um tipo ou uma forma mais segura de trabalhar com valores monetários?
+
+/*
+Escreva uma aplicação de console simples que receba dois valores, representando o limite de crédito e o
+saldo atual de um correntista e retorne o valor disponível. Saiba que o valor disponível em uma conta
+corrente é o limite de crédito mais o saldo atual.
+*/

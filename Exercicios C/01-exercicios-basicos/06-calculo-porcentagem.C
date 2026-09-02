@@ -16,5 +16,12 @@ int main()
 }
 // Eu do futuro:
 // Hoje aprendi que %% imprime o simbolo % no printf.
-// Como eu transformaria esse programa em um calculador de desconto,
+// Como eu transformaria esse programa em um calculador de desconto?
 // aumento percentual ou juros?
+
+/*
+Escreva uma aplicação de console simples que receba dois valores,
+os mesmos representando um valor númerico real e outro o valor
+percentual do número. Em seguida, calcule e mostre o calculo
+percentual do numero informado. Ex. 10% de 500.
+*/

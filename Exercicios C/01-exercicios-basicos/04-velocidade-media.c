@@ -29,3 +29,11 @@ int main()
 // O que acontece se o tempo final for igual ao tempo inicial?
 // Como impedir uma divisão por zero?
 // E como validar se tempo final e distância final fazem sentido em relação aos valores iniciais?
+
+/*
+Escreva uma aplicação de console simples que receba quatro valores (distancia
+inicial, distancia final, tempo inicial e tempo final), em seguida, 
+calcule a velocidade média de um veículo: Vm = dx / dt
+dx = Distância final – Distância inicial
+dt = Tempo final – Tempo inicial
+*/

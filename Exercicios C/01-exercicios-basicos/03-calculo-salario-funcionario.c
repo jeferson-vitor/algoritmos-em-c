@@ -29,3 +29,15 @@ int main()
 // Eu do futuro:
 // Como limitar a idade do funcionário para que não seja negativo, nem maior que 120?
 // Como você organizaria isso hoje para deixar cada etapa ainda mais clara?
+
+/*
+Escreva uma aplicação de console simples que receba dois valores que são informações de um
+funcionário: Idade e o seu salário bruto, considere:
+a) O salário bruto teve um reajuste de 38%.
+b) O funcionário receberá uma gratificação de 20% sobre salário bruto reajustado.
+c) O Salário total é descontado em 15% sobre salário bruto reajustado.
+Faça um programa para:
+• Imprimir Idade.
+• Imprimir o salário bruto.
+• Imprimir o salário líquido.
+*/
