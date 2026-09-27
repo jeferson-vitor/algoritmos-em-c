@@ -2,8 +2,6 @@
 
 #### 🚀 Sprint 1 — Validação Lógica, Entrada de Dados, Laços e Menu Principal
 
-**Data Limite de Entrega:** **28/09**
-
 **Foco Técnico:** Fundamentos da Linguagem C, Tipos de Dados Primitivos, Pseudocódigo, Lógica Condicional (`if/else`, `switch`), Laços de Repetição (`for`, `while`, `do-while`) e Estrutura de Navegação (Menu CLI).
 
 #### 📦 Itens Detalhados a Entregar
@@ -32,8 +30,4 @@
 #### 📁 Arquivos
 
 * `sistema.c`
-* `pseudocodigo.md`
-
-#### 📌 Status
-
-Em desenvolvimento — Sprint 1.
+* `pseudocodigo.pdf`
