@@ -29,5 +29,5 @@
 
 #### 📁 Arquivos
 
-* `sistema.c`
-* `pseudocodigo.pdf`
+* `sprint1.c`
+* `Pseudocódigo - Projeto Sprint 1.pdf`
